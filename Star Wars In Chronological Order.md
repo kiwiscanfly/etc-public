@@ -1,0 +1,221 @@
+# Star Wars: In Chronological Order 
+
+A list of all the Star Wars to keep in [Drafts](https://getdrafts.com/) or somewhere 😊
+
+- [ ] Episode I: The Phantom Menace (1999)
+- [ ] Episode II: Attack of the Clones (2002)
+**The Clone Wars (2008 to 2014)**
+  - [ ] S2E16 Cat and Mouse
+  - [ ] S1E16 Hidden Enemy
+  - [ ] The Clone Wars Movie
+  - [ ] S3E01 Clone Cadets
+  - [ ] S3E03 Supply Lines
+  - [ ] S1E01 Ambush
+  - [ ] S1E02 Rising Malevolence
+  - [ ] S1E03 Shadow of Malevolence
+  - [ ] S1E04 Destroy Malevolence
+  - [ ] S1E05 Rookies
+  - [ ] S1E06 Downfall of a Droid
+  - [ ] S1E07 Duel of the Droids
+  - [ ] S1E08 Bombad Jedi
+  - [ ] S1E09 Cloak of Darkness
+  - [ ] S1E10 Lair of Grievous
+  - [ ] S1E11 Dooku Captured
+  - [ ] S1E12 The Gungan General
+  - [ ] S1E13 Jedi Crash
+  - [ ] S1E14 Defenders of Peace
+  - [ ] S1E15 Trespass
+  - [ ] S1E17 Blue Shadow Virus
+  - [ ] S1E18 Mystery of a Thousand Moons
+  - [ ] S1E19 Storm over Ryloth
+  - [ ] S1E20 Innocents of Ryloth
+  - [ ] S1E21 Liberty on Ryloth
+  - [ ] S2E01 Holocron Heist
+  - [ ] S2E02 Cargo of Doom
+  - [ ] S2E03 Children of the Force
+  - [ ] S2E17 Bounty Hunters
+  - [ ] S2E18 The Zillo Beast
+  - [ ] S2E19 The Zillo Beast Strikes Back
+  - [ ] S2E04 Senate Spy
+  - [ ] S2E05 Landing at Point Rain
+  - [ ] S2E06 Weapons Factory
+  - [ ] S2E07 Legacy of Terror
+  - [ ] S2E08 Brain Invaders
+  - [ ] S2E09 Grievous Intrigue
+  - [ ] S2E10 The Deserter
+  - [ ] S2E11 Lightsaber Lost
+  - [ ] S2E12 The Mandalore Plot
+  - [ ] S2E13 Voyage of Temptation
+  - [ ] S2E14 Duchess of Mandalore
+  - [ ] S2E20 Death Trap
+  - [ ] S2E21 R2 Come Home
+  - [ ] S2E22 Lethal Trackdown
+  - [ ] S3E05 Corruption
+  - [ ] S3E06 The Academy
+  - [ ] S3E07 Assassin
+  - [ ] S3E02 ARC Troopers
+  - [ ] S3E04 Sphere of Influence
+  - [ ] S3E08 Evil Plans
+  - [ ] S1E22 Hostage Crisis
+  - [ ] S3E09 Hunt for Ziro
+  - [ ] S3E10 Heroes on Both Side
+  - [ ] S3E11 Pursuit of Peace
+  - [ ] S2E15 Senate Murders
+  - [ ] S3E12 Nightsisters
+  - [ ] S3E13 Monster
+  - [ ] S3E14 Witches of the Mist
+  - [ ] S3E15 Overlords
+  - [ ] S3E16 Altar of Mortis
+  - [ ] S3E17 Ghosts of Mortis
+  - [ ] S3E18 The Citadel
+  - [ ] S3E19 Counter Attack
+  - [ ] S3E20 Citadel Rescue
+  - [ ] S3E21 Padawan Lost
+  - [ ] S3E22 Wookiee Hunt
+  - [ ] S4E01 Water War
+  - [ ] S4E02 Gungan Attack
+  - [ ] S4E03 Prisoners
+  - [ ] S4E04 Shadow Warrior
+  - [ ] S4E05 Mercy Mission
+  - [ ] S4E06 Nomad Droids
+  - [ ] S4E07 Darkness on Umbara
+  - [ ] S4E08 The General
+  - [ ] S4E09 Plan of Dissent
+  - [ ] S4E10 Carnage of Krell
+  - [ ] S4E11 Kidnapped
+  - [ ] S4E12 Slaves of the Republic
+  - [ ] S4E13 Escape from Kadavo
+  - [ ] S4E14 A Friend In Need
+  - [ ] S4E15 Deception
+  - [ ] S4E16 Friends and Enemies
+  - [ ] S4E17 The Box
+  - [ ] S4E18 Crisis on Naboo
+  - [ ] S4E19 Massacre
+  - [ ] S4E20 Bounty
+  - [ ] S4E21 Brothers
+  - [ ] S4E22 Revenge
+  - [ ] S5E02 A War on Two Fronts
+  - [ ] S5E03 Front Runners
+  - [ ] S5E04 The Soft War
+  - [ ] S5E05 Tipping Points
+  - [ ] S5E06 The Gathering
+  - [ ] S5E07 A Test of Strength
+  - [ ] S5E08 Bound for Rescue
+  - [ ] S5E09 A Necessary Bond
+  - [ ] S5E10 Secret Weapons
+  - [ ] S5E11 A Sunny Day in the Void
+  - [ ] S5E12 Missing in Action
+  - [ ] S5E13 Point of No Return
+  - [ ] S5E01 Revival
+  - [ ] S5E14 Eminence
+  - [ ] S5E15 Shades of Reason
+  - [ ] S5E16 The Lawless
+  - [ ] S5E17 Sabotage
+  - [ ] S5E18 The Jedi Who Knew Too Much
+  - [ ] S5E19 To Catch a Jedi
+  - [ ] S5E20 The Wrong Jedi
+  - [ ] S6E01 The Unknown
+  - [ ] S6E02 Conspiracy
+  - [ ] S6E03 Fugitive
+  - [ ] S6E04 Orders
+  - [ ] S6E05 An Old Friend
+  - [ ] S6E06 The Rise of Clovis
+  - [ ] S6E07 Crisis at the Heart
+  - [ ] S6E08 The Disappeared
+  - [ ] S6E09 The Disappeared: Pt. II
+  - [ ] S6E10 The Lost One
+  - [ ] S6E11 Voices
+  - [ ] S6E12 Destiny
+  - [ ] S6E13 Sacrifice
+- [ ] Episode III: Revenge of the Sith (2005)
+- [ ] Solo (2018)
+**Star Wars Rebels (2014 to 2018)**
+  - [ ] S1E1 Ghosts of Geonosis: Part 1
+  - [ ] S1E2 Ghosts of Geonosis: Part 2
+  - [ ] S1E3 Warhead
+  - [ ] S1E4 Trials of the Darksaber
+  - [ ] S1E5 Legacy of Mandalore
+  - [ ] S1E6 Through Imperial Eyes
+  - [ ] S1E7 Secret Cargo
+  - [ ] S1E8 Double Agent Droid
+  - [ ] S1E9 Twin Suns
+  - [ ] S1E10 Zero Hour: Part 1
+  - [ ] S1E11 Zero Hour: Part 2
+  - [ ] S1E12 Heroes of Mandalore: Part 1
+  - [ ] S1E13 Heroes of Mandalore: Part 2
+  - [ ] S1E14 In the Name of the Rebellion: Part 1
+  - [ ] S1E15 In the Name of the Rebellion: Part 2
+  - [ ] S1E16 The Occupation
+  - [ ] S1E17 Flight of the Defender
+  - [ ] S1E18 Kindred
+  - [ ] S1E19 Crawler Commandeers
+  - [ ] S1E20 Rebel Assault
+  - [ ] S2E1 The Siege of Lothal
+  - [ ] S2E2 The Siege of Lothal: Part 2
+  - [ ] S2Ep3 The Lost Commanders
+  - [ ] S2E4 Relics of the Old Republic
+  - [ ] S2E5 Always Two There Are
+  - [ ] S2E6 Brothers of the Broken Horn
+  - [ ] S2E7 Wings of the Master
+  - [ ] S2E8 Blood Sisters
+  - [ ] S2E9 Stealth Strike
+  - [ ] S2E10 The Future of the Force
+  - [ ] S2E11 Legacy
+  - [ ] S2E12 A Princess on Lothal
+  - [ ] S2E13 The Protector of Concord Dawn
+  - [ ] S2E14 Legends of the Lasat
+  - [ ] S2E15 The Call
+  - [ ] S2E16 Homecoming
+  - [ ] S2E17 The Honorable Ones
+  - [ ] S2E18 Shroud of Darkness
+  - [ ] S2E19 The Forgotten Droid
+  - [ ] S2E20 The Mystery of Chopper Base
+  - [ ] S2Ep21 Twilight of the Apprentice: Part I
+  - [ ] S2E22 Twilight of the Apprentice: Part II
+  - [ ] S3E1 Steps Into Shadow
+  - [ ] S3E2 The Holocrons of Fate
+  - [ ] S3E3 The Antilles Extraction
+  - [ ] S3E4 Hera's Heroes
+  - [ ] S3E5 The Last Battle
+  - [ ] S3E6 Imperial Supercommandos
+  - [ ] S3E7 Iron Squadron
+  - [ ] S3E8 The Wynkahthu Job
+  - [ ] S3E9 An Inside Man
+  - [ ] S3E10 Visions and Voices
+  - [ ] S3E11 Ghosts of Geonosis: Part 1
+  - [ ] S3E12 Ghosts of Geonosis: Part 2
+  - [ ] S3E13 Warhead
+  - [ ] S3E14 Trials of the Darksaber
+  - [ ] S3E15 Legacy of Mandalore
+  - [ ] S3E16 Through Imperial Eyes
+  - [ ] S3E17 Secret Cargo
+  - [ ] S3E18 Double Agent Droid
+  - [ ] S3E19 Twin Suns
+  - [ ] S3E20 Zero Hour: Part 1
+  - [ ] S3E21 Zero Hour: Part 2
+  - [ ] S4E1 Heroes of Mandalore: Part 1
+  - [ ] S4E2 Heroes of Mandalore: Part 2
+  - [ ] S4E3 In the Name of the Rebellion: Part 1
+  - [ ] S4E4 In the Name of the Rebellion: Part 2
+  - [ ] S4E5 The Occupation
+  - [ ] S4E6 Flight of the Defender
+  - [ ] S4E7 Kindred
+  - [ ] S4E8 Crawler Commandeers
+  - [ ] S4E9 Rebel Assault
+  - [ ] S4E10 Jedi Night
+  - [ ] S4E11 DUME
+  - [ ] S4E12 Wolves and a Door
+  - [ ] S4E13 A World Between Worlds
+  - [ ] S4E14 A Fool's Hope
+  - [ ] S4E15 Family Reunion - and Farewell
+  - [ ] S4E16 Family Reunion - and Farewell Part 2
+- [ ] Rogue One (2016)
+- [ ] Episode IV: A New Hope
+- [ ] Episode V: The Empire Strikes Back (1980)
+- [ ] Episode VI: The Return of the Jedi (1983)
+- [ ] The Mandalorian (2019)
+- [ ] Star Wars: Resistance (2018 to Present)
+- [ ] Episode VII: The Force Awakens (2016)
+- [ ] Episode VIII: The Last Jedi (2017)
+- [ ] Episode IX: The Rise of Skywalker (2019)
+- [ ] Star Wars: Forces of Destiny (2017 to Present)
